@@ -1,10 +1,14 @@
 // Sample product data for Snacks
 const products = [
+<<<<<<< HEAD
     { id: 1, name: 'Potato Chips', category: 'chips', price: 2.50, description: 'Large bag', image: 'snackimages/potatochips.png' },
     { id: 2, name: 'Gummy Bears', category: 'candy', price: 1.99, description: '100g pack', image: 'snacksimages/gummy_bears.jpg' },
     { id: 3, name: 'Almonds', category: 'nuts', price: 4.99, description: '200g pack', image: 'snacksimages/almonds.jpg' },
     { id: 4, name: 'Popcorn', category: 'chips', price: 1.50, description: 'Microwave pack', image: 'snacksimages/popcorn.jpg' },
     { id: 5, name: 'Chocolate Bar', category: 'candy', price: 2.99, description: 'Single bar', image: 'snacksimages/chocolate_bar.jpg' }
+=======
+  
+>>>>>>> bc1b52f (Meat update)
 ];
 
 // Function to display products with description and price
