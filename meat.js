@@ -1,22 +1,5 @@
 // Sample product data with images, prices, and descriptions
 const products = [
-<<<<<<< HEAD
-        { id: 1, name: 'Beef', category: 'beef', price: 12.99, description: '2 lbs', image: 'meatimages/beef.jpg' },
-        { id: 2, name: 'Chicken', category: 'chicken', price: 7.99, description: '1.5 lbs', image: 'meatimages/chicken.png' },
-        { id: 3, name: 'Pork', category: 'pork', price: 8.99, description: '1 lb', image: 'meatimages/pork.jpg' },
-        { id: 4, name: 'Lamb', category: 'lamb', price: 14.99, description: '2.5 lbs', image: 'meatimages/lamb.jpg' },
-        { id: 5, name: 'Chicken Drumsticks', category: 'chicken', price: 12, description: '2.5 lbs', image: 'meatimages/chicken drumstick.png' },
-        { id: 6, name: 'pork skin', category: 'pork', price: 12.99, description: '2 lbs', image: 'meatimages/pork skin.jpg' },
-        { id: 7, name: 'Pork spare ribs', category: 'beef', price: 7.99, description: '1.5 lbs', image: 'meatimages/pork spare ribs.jpg' },
-        { id: 8, name: 'Pork liver', category: 'pork', price: 8.99, description: '1 lb', image: 'meatimages/pork liver.jpg' },
-        { id: 9, name: 'Turkey drum', category: 'turkey', price: 14.99, description: '2.5 lbs', image: 'meatimages/turkey drum.jpg' },
-        { id: 10, name: 'Beef rib eve steak', category: 'beef', price: 12, description: '2.5 lbs', image: 'meatimages/beef rib eve.jpg' },
-        { id: 11, name: 'pork ear', category: 'pork', price: 12.99, description: '2 lbs', image: 'meatimages/pork ear.jpg' },
-        { id: 12, name: 'Chicken', category: 'chicken', price: 7.99, description: '1.5 lbs', image: 'meatimages/chicken.png' },
-        { id: 13, name: 'Pork', category: 'pork', price: 8.99, description: '1 lb', image: 'meatimages/pork.jpg' },
-        { id: 14, name: 'Lamb', category: 'lamb', price: 14.99, description: '2.5 lbs', image: 'meatimages/lamb.jpg' },
-        { id: 15, name: 'Chicken Drumsticks', category: 'chicken', price: 12, description: '2.5 lbs', image: 'meatimages/chicken drumstick.png' }
-=======
     { id: 1, name: 'Beef Banana Shank', category: 'Beef', price: 6.99, description: 'Per lb', image: 'meatimages/Beef Banana Shank.jpg' },
     { id: 2, name: 'Beef Eye of Round', category: 'Beef', price: 6.99, description: 'Per lb', image: 'meatimages/Beef Eye of Round.jpg' },
     { id: 3, name: 'Beef Omasum Tripe', category: 'Beef', price: 7.49, description: 'Per lb', image: 'meatimages/Beef Omasum Tripe.jpg' },
@@ -118,7 +101,6 @@ const products = [
 { id: 99, name: 'Frozen Frog Selections with Flavor Sauce', category: 'Frog', price: 9.99, description: 'Per unit', image: 'meatimages/Frozen Frog Selections with Flavor Sauce.jpg' },
 
     
->>>>>>> bc1b52f (Meat update)
     ];
 
 // Function to display products with description and price

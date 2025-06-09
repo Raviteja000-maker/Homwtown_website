@@ -60,7 +60,7 @@ body {
 
 /* Produce Section Styling */
 .produce-section {
-    background: url('southasianimages/indianasile.png') no-repeat center center / cover;
+    background: url('Latinamericanimages/latinamericanbanner.png') no-repeat center center / cover;
     height: 300px;
     display: flex;
     justify-content: center;
@@ -155,7 +155,10 @@ body {
     text-align: right;
     padding: 10px;
 }
-
+.country-icon a {
+    text-decoration: none;
+    color: inherit; /* Optional: ensures the color matches surrounding text */
+}
 .sort-section select {
     padding: 8px;
     border: 1px solid #ddd;

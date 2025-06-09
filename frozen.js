@@ -1,12 +1,5 @@
 // Sample product data for Frozen section
 const products = [
-<<<<<<< HEAD
-    { id: 1, name: 'Frozen Peas', category: 'frozen-vegetables', price: 3.50, image: 'Images/frozen-peas.png', description: '500g pack' },
-    { id: 2, name: 'Frozen Pizza', category: 'frozen-foods', price: 6.99, image: 'Images/frozen-pizza.png', description: 'Large pizza' },
-    { id: 3, name: 'Vanilla Ice Cream', category: 'ice-cream', price: 4.99, image: 'Images/vanilla-ice-cream.png', description: '1L tub' },
-    { id: 4, name: 'Frozen Broccoli', category: 'frozen-vegetables', price: 2.99, image: 'Images/frozen-broccoli.png', description: '500g pack' },
-    { id: 5, name: 'Chocolate Ice Cream', category: 'ice-cream', price: 4.99, image: 'Images/chocolate-ice-cream.png', description: '1L tub' }
-=======
     { id: 1, name: "O' TASTY BBQ PORK BAO (24 OZ)", category: 'bao', price: 9.99, image: 'frozenimages/O\' TASTY BBQ PORK BAO (24 OZ).jpg', description: '24 OZ pack' },
     { id: 2, name: 'KIMBO BABY SPRING SHRIMP ROLL (3.58OZ)', category: 'roll', price: 5.99, image: 'frozenimages/KIMBO BABY SPRING SHRIMP ROLL(3.58OZ).jpg', description: '3.58 OZ pack' },
     { id: 3, name: 'KIMBO FZ VEGETABLE SPRING ROLL (500 GM)', category: 'roll', price: 6.99, image: 'frozenimages/KIMBO FZ VEGETABLE SPRING ROLL (500 GM).jpg', description: '500 GM pack' },
@@ -164,7 +157,6 @@ const products = [
       
   
 
->>>>>>> bc1b52f (Meat update)
 ];
 
 // Function to display products with description and price
