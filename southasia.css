@@ -58,9 +58,9 @@ body {
     font-weight: bold;
 }
 
-/* Produce Section Styling */
-.produce-section {
-    background: url('southasianimages/indianasile.png') no-repeat center center / cover;
+/* southasia Section Styling */
+.southasia-section {
+    background: url('produceimages/produce_b1.jpg') no-repeat center center / cover;
     height: 300px;
     display: flex;
     justify-content: center;
@@ -94,7 +94,7 @@ body {
 }
 
 /* Title Styling */
-.produce-title {
+.southasia-title {
     font-size: 48px;
     color: white;
     font-family: 'Lobster', sans-serif;
