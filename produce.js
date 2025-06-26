@@ -7,7 +7,7 @@ const products = [
     { id: 5, name: 'Green Banana', category: 'fruits', price: 0.89, description: 'Per unit', image: 'produceimages/greenbanana.png' },
     { id: 6, name: 'Burro Banana', category: 'fruits', price: 1.29, description: 'Per unit', image: 'produceimages/burrobanana.png' },
     { id: 7, name: 'Plantains Banana', category: 'fruits', price: 1.99, description: 'Per unit', image: 'produceimages/plantainsbanana.png' },
-    { id: 8, name: 'Red Banana', category: 'fruitsi', price: 1.79, description: 'Per unit', image: 'produceimages/redbanana.png' },
+    { id: 8, name: 'Red Banana', category: 'fruits', price: 1.79, description: 'Per unit', image: 'produceimages/redbanana.png' },
     { id: 9, name: 'Fuji Apple USA', category: 'fruits', price: 1.49, description: 'Per unit', image: 'produceimages/fujiappleusa.png' },
     { id: 10, name: 'Red Apple USA', category: 'fruits', price: 1.29, description: 'Per unit', image: 'produceimages/redappleusa.png' },
     { id: 11, name: 'Gala Apple USA', category: 'fruits', price: 1.39, description: 'Per unit', image: 'produceimages/galaappleusa.png' },
